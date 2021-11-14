@@ -1,4 +1,4 @@
-<a href="#"><img width="80px" height="80px" src="https://user-images.githubusercontent.com/61355143/141691362-ea025843-55a9-41d2-8621-43e1c36b9396.gif" height="175px"/></a>
+<a href="#"><img width="80px" text-align= "center" height="80px" src="https://user-images.githubusercontent.com/61355143/141691362-ea025843-55a9-41d2-8621-43e1c36b9396.gif" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Berkay</h1>
 <h3 align="center">I'm currently developing myself based on Programming. I have also done work on Backend Technologies. It is true that I enjoy the Frontend Technology  parts :)</h3>
