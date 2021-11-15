@@ -26,6 +26,7 @@
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://user-images.githubusercontent.com/61355143/141692202-3d10733f-ec4d-4f95-b66c-268bfad8ee4b.png" height="40"/> </a> 
+  <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://user-images.githubusercontent.com/61355143/141735076-7ba84898-2a0f-4c6f-ba35-75db69217239.png" height="40"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://user-images.githubusercontent.com/61355143/141692297-b0b08a2b-6f13-4c88-99bd-37a7f1f4fa1b.png" height="40"/> </a> 
     <a href="https://expressjs.com" target="_blank"> <img src="https://user-images.githubusercontent.com/61355143/141692265-041b96c0-1b8d-4bd6-bc36-932ac3e91338.png" alt="express" width="40" height="40"/> </a>
 
