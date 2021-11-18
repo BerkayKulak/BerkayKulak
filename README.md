@@ -41,7 +41,7 @@
     <a href="https://github.com/BerkayKulak/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="BerkayKulak" src="https://github-readme-streak-stats.herokuapp.com/?user=BerkayKulak&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
- <a href="#"><img width="120px" text-align= "center" height="120px" src="https://user-images.githubusercontent.com/61355143/141691362-ea025843-55a9-41d2-8621-43e1c36b9396.gif" height="175px"/></a>
+ <a href="#"><img width="200px" text-align= "center" height="200px" src="https://user-images.githubusercontent.com/61355143/141691362-ea025843-55a9-41d2-8621-43e1c36b9396.gif" height="175px"/></a>
 </p>
 
 ## 🐱‍👓 My Github Stats
