@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Berkay<a href="#"><img width="120px" text-align= "center" height="120px" src="https://user-images.githubusercontent.com/61355143/141691362-ea025843-55a9-41d2-8621-43e1c36b9396.gif" height="175px"/></a>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Berkay
 </h1>
 <h3 align="center">I'm currently developing myself based on Programming. I have also done work on Backend Technologies. It is true that I enjoy the Frontend Technology  parts :)</h3>
 
@@ -41,6 +41,7 @@
     <a href="https://github.com/BerkayKulak/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="BerkayKulak" src="https://github-readme-streak-stats.herokuapp.com/?user=BerkayKulak&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
+ <a href="#"><img width="120px" text-align= "center" height="120px" src="https://user-images.githubusercontent.com/61355143/141691362-ea025843-55a9-41d2-8621-43e1c36b9396.gif" height="175px"/></a>
 </p>
 
 ## 🐱‍👓 My Github Stats
