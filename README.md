@@ -5,7 +5,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Web Servies Pros](https://www.webservicespros.com/)**
 
 - 🌱 I’m currently learning **ASP NET And Core API.**
 
