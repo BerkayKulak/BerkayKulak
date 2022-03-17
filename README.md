@@ -1,7 +1,5 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Berkay
-</h1>
-<h3 align="center">I'm currently developing myself based on Programming. I have also done work on Backend Technologies. It is true that I enjoy the Frontend Technology  parts :)</h3>
+
 
 ## 🙋‍♂️ About Me
 
