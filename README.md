@@ -40,15 +40,6 @@
     </a>
  <a href="#"><img width="200px" text-align= "center" height="200px" src="https://user-images.githubusercontent.com/61355143/141691362-ea025843-55a9-41d2-8621-43e1c36b9396.gif" height="175px"/></a>
 </p>
-
-## 🐱‍👓 My Github Stats
-
-  <br/>
-    <a href="https://github.com/BerkayKulak/github-readme-stats"><img alt="Berkay Kulak's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BerkayKulak&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<br/>
 <br/>
 
 
